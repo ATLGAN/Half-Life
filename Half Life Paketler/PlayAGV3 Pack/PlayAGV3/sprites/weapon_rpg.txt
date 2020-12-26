@@ -1,0 +1,9 @@
+8
+weapon			320 320hud1	80	40	80	20
+weapon_s		320 320hud1	80	60	80	20
+ammo			320 320hud2	90	16	18	18
+crosshair		320 rpg		0	128	128	128
+weapon			640 w_HDRPG	0	0	170	45
+weapon_s		640 w_HDRPG	0	45	170	45
+ammo			640 a_rpg	0	0	32	32
+crosshair		640 rpg		0	128	128	128

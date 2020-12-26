@@ -1,0 +1,9 @@
+8
+weapon			320 320hud1	160	0	80	20
+weapon_s		320 320hud1	160	20	80	20
+crosshair		320 el  	0	128	128	128
+ammo			320 320hud2	36	34	18	18
+weapon			640 w_HDGrenade	0	0	170	45
+weapon_s		640 w_HDGrenade	0	45	170	45
+crosshair		640 el 		0	128	128	128
+ammo			640 a_grenade	0	0	32	32

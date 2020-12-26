@@ -1,0 +1,13 @@
+8
+weapon			320 320hud1	160	80	80	20
+weapon_s		320 320hud1	160	100	80	20
+crosshair		320 mine 	0	0	128	128
+ammo			320 320hud2	72	34	18	18
+weapon			640 w_HDTripmine	0	0	170	45
+weapon_s		640 w_HDTripmine	0	45	170	45
+crosshair		640 mine 	0	0	128	128
+ammo			640 a_tripmine	0	0	32	32
+//ammo			640 ammo_hud	0	80	42	21
+
+
+

@@ -1,0 +1,16 @@
+// 9mmAR
+
+12	// number of sprites
+weapon			320 320hud1	0	120	80	20
+weapon_s		320 320hud1	0	140	80	20
+ammo			320 320hud2	0	16	18	18
+ammo2			320 320hud2	36	16	18	18
+crosshair		320 9mmAR 	0	128	128	128
+autoaim			320 9mmAR 	0	128	128	128
+weapon			640 w_HDM4	0	0	170	45
+weapon_s		640 w_HDM4	0	45	170	45
+ammo			640 a_9mmar	0	0	32	32
+//ammo			640 ammo_hud	42	80	9	19
+ammo2			640 a_9mmar2	0	0	32	32
+crosshair		640 9mmAR 	0	128	128	128
+autoaim			640 9mmAR 	0	128	128	128

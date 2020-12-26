@@ -1,0 +1,9 @@
+8
+weapon			320 320hud1	80	120	80	20
+weapon_s		320 320hud1	80	140	80	20
+ammo			320 320hud2	0	34	18	18
+crosshair		320 egon	0	128	128	128
+weapon			640 w_HDEgon	0	0	170	45
+weapon_s		640 w_HDEgon	0	45	170	45
+ammo			640 a_gauss	0	0	32	32
+crosshair		640 egon	0	128	128	128

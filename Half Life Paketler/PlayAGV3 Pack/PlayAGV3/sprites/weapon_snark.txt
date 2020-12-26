@@ -1,0 +1,10 @@
+8
+weapon			320 320hud1	160	120	80	20
+weapon_s		320 320hud1	160	140	80	20
+ammo			320 320hud2	90	34	18	18
+crosshair		320 bocek	0	128	128	128
+weapon			640 w_HDSnark	0	0	170	45
+weapon_s		640 w_HDSnark	0	45	170	45
+ammo			640 a_snark	0	0	33	32
+//ammo			640 ammo_hud	88	36	33	32
+crosshair		640 bocek	0	128	128	128
